@@ -742,3 +742,15 @@ inline_keyboard.1.2
 2025-07-16 21:21:44 | INFO | logger:emit:12 - Polling stopped
 2025-07-16 21:21:44 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
 2025-07-16 21:21:44 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:24:28 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:24:28 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:24:28 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:24:28 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:24:29 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:24:29 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:24:52 | INFO | logger:emit:12 - Update id=100783835 is handled. Duration 311 ms by bot id=7867588926
+2025-07-16 21:24:53 | INFO | logger:emit:12 - Update id=100783836 is handled. Duration 235 ms by bot id=7867588926
+2025-07-16 21:24:56 | INFO | logger:emit:12 - Update id=100783837 is handled. Duration 718 ms by bot id=7867588926
+2025-07-16 21:45:36 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:45:36 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:45:36 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
