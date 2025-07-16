@@ -68,3 +68,8 @@ async def get_user_stat(session: AsyncSession):
         "week": week or 0,
         "month": month or 0
     }
+
+
+async def get_list_all_users(session: AsyncSession) -> list[int]:
+    result = await session.execute(select(User.user_id))
+    return result.scalars().all()

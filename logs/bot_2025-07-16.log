@@ -662,3 +662,83 @@ inline_keyboard.1.2
 2025-07-16 20:39:45 | INFO | logger:emit:12 - Polling stopped
 2025-07-16 20:39:45 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
 2025-07-16 20:39:45 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:02:21 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:02:21 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:02:21 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:02:21 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:02:21 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:02:22 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:02:26 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:02:26 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:02:26 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:18:10 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:18:10 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:18:10 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:18:10 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:18:11 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:18:11 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:18:13 | INFO | logger:emit:12 - Update id=100783817 is handled. Duration 312 ms by bot id=7867588926
+2025-07-16 21:18:14 | INFO | logger:emit:12 - Update id=100783818 is not handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:18:18 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:18:18 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:18:18 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:18:52 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:18:52 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:18:52 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:18:52 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:18:52 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:18:52 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:18:54 | INFO | logger:emit:12 - Update id=100783819 is handled. Duration 327 ms by bot id=7867588926
+2025-07-16 21:18:55 | INFO | logger:emit:12 - Update id=100783820 is handled. Duration 327 ms by bot id=7867588926
+2025-07-16 21:18:58 | INFO | logger:emit:12 - Update id=100783821 is handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:19:17 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:19:17 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:19:17 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:19:21 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:19:21 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:19:21 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:19:21 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:19:21 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:19:21 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:19:25 | INFO | logger:emit:12 - Update id=100783823 is handled. Duration 343 ms by bot id=7867588926
+2025-07-16 21:19:26 | INFO | logger:emit:12 - Update id=100783824 is handled. Duration 375 ms by bot id=7867588926
+2025-07-16 21:19:26 | INFO | logger:emit:12 - Update id=100783825 is handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:19:40 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:19:40 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:19:40 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:19:43 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:19:43 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:19:43 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:19:43 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:19:44 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:19:44 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:19:45 | INFO | logger:emit:12 - Update id=100783826 is handled. Duration 313 ms by bot id=7867588926
+2025-07-16 21:19:45 | INFO | logger:emit:12 - Update id=100783827 is handled. Duration 233 ms by bot id=7867588926
+2025-07-16 21:19:46 | INFO | logger:emit:12 - Update id=100783828 is handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:19:51 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:19:51 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:19:51 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:19:55 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:19:55 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:19:55 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:19:55 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:19:55 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:19:56 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:19:58 | INFO | logger:emit:12 - Update id=100783829 is handled. Duration 328 ms by bot id=7867588926
+2025-07-16 21:19:59 | INFO | logger:emit:12 - Update id=100783830 is handled. Duration 250 ms by bot id=7867588926
+2025-07-16 21:19:59 | INFO | logger:emit:12 - Update id=100783831 is handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:20:56 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:20:56 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:20:56 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
+2025-07-16 21:21:00 | INFO | main:main:26 - Starting bot...
+2025-07-16 21:21:00 | INFO | main:on_startup:13 - Initializing database...
+2025-07-16 21:21:00 | INFO | main:on_startup:15 - Database initialized successfully
+2025-07-16 21:21:00 | INFO | main:on_startup:17 - Starting gift parsing loop...
+2025-07-16 21:21:00 | INFO | logger:emit:12 - Start polling
+2025-07-16 21:21:00 | INFO | logger:emit:12 - Run polling for bot @auto_free_gifts_bot id=7867588926 - 'TgGiftsBot'
+2025-07-16 21:21:02 | INFO | logger:emit:12 - Update id=100783832 is handled. Duration 327 ms by bot id=7867588926
+2025-07-16 21:21:03 | INFO | logger:emit:12 - Update id=100783833 is handled. Duration 234 ms by bot id=7867588926
+2025-07-16 21:21:06 | INFO | logger:emit:12 - Update id=100783834 is handled. Duration 0 ms by bot id=7867588926
+2025-07-16 21:21:44 | INFO | logger:emit:12 - Polling stopped
+2025-07-16 21:21:44 | ERROR | logger:emit:12 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-16 21:21:44 | WARNING | logger:emit:12 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7867588926)
